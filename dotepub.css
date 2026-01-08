@@ -15,7 +15,7 @@
 
 #dotepub #status {
 	display: block !important;
-	background: #d5eeab url('//dotepub.com/i/dotepub.png') no-repeat left top !important;
+	background: #d5eeab url('http://dotepub.com/i/dotepub.png') no-repeat left top !important;
 	height: 32px !important;
 	border-bottom:1px solid #85ba25 !important;
 }
